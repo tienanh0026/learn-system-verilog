@@ -1,4 +1,6 @@
 /*
-soc_design/
 !.gitignore
 !*.sv
+!/soc_design/
+soc_design/*
+!soc_design/*.sv
